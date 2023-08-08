@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReinelPuentes92/powerbi-react/static/css/main.a6d1321d.css",
+    "main.js": "/ReinelPuentes92/powerbi-react/static/js/main.fbe1fbad.js",
+    "static/js/787.db1aa035.chunk.js": "/ReinelPuentes92/powerbi-react/static/js/787.db1aa035.chunk.js",
+    "index.html": "/ReinelPuentes92/powerbi-react/index.html",
+    "main.a6d1321d.css.map": "/ReinelPuentes92/powerbi-react/static/css/main.a6d1321d.css.map",
+    "main.fbe1fbad.js.map": "/ReinelPuentes92/powerbi-react/static/js/main.fbe1fbad.js.map",
+    "787.db1aa035.chunk.js.map": "/ReinelPuentes92/powerbi-react/static/js/787.db1aa035.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6d1321d.css",
+    "static/js/main.fbe1fbad.js"
+  ]
+}
